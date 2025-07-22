@@ -1,0 +1,14 @@
+AliExpress:
+
+BKA30-F2 Stepper Motor:
+https://a.aliexpress.com/_mLrDfx1
+
+2.8" Round Screen for SARI and RWR:
+https://a.aliexpress.com/_mrDJpkF
+-- colour: No Touch Kit
+
+
+Tutorials:
+
+Krikee's 360° Stepper Mod:
+https://openhornet.com/2023/10/29/360-travel-modification-of-gauge-steppers/
